@@ -13,5 +13,5 @@
     b.  Create a css folder
     c.  In the css folder, create a styles.css file
     d.  Create an index.html file
-5.  In the examples folder, there are 4 jpg images.  Your job is to recreate the jpg files in the index.html starting with 1.jpg and working your way through 4.jpg.
-6.  Commit and Push your code.  
+5.  In the examples folder, there are 4 jpg images.  Your job is to recreate the jpg files in the index.html starting with 1-top.jpg and working your way through 4-final.jpg.
+6.  Commit and Push your code as you work through the exercise.  
